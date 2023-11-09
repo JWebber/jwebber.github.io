@@ -1,0 +1,40 @@
+main:
+  - title: "A linear-elastic-nonlinear-swelling theory for hydrogels. Part 2. Displacement formulation"
+    doi: doi.org/10.1017/jfm.2023.201
+    authors: <strong>Webber, J. J.</strong>, Etzold, M. A. and Worster, M. G.
+    pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B4A7175D57C1111FBCB6434717FAEBB8/S002211202300201Xa.pdf/a-linear-elastic-nonlinear-swelling-theory-for-hydrogels-part-2-displacement-formulation.pdf
+    journal: Journal of Fluid Mechanics (2023) <strong>960:</strong>A38
+    image: ./assets/img/papers/jjw_mae_mgw_2023.jpg
+    notes: We consider the multidirectional swelling and drying of hydrogels formed from super-absorbent polymers and water, focusing on the elastic deformation caused by differential swelling. By modelling hydrogels as instantaneously incompressible, linear-elastic materials and considering situations in...
+
+  - title: "A linear-elastic-nonlinear-swelling theory for hydrogels. Part 1. Modelling of super-absorbent gels"
+    doi: doi.org/10.1017/jfm.2023.200
+    authors: <strong>Webber, J. J.</strong> and Worster, M. G.
+    pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B166986C8446FC8FED8E94DC1A1EBC15/S0022112023002008a.pdf/a-linear-elastic-nonlinear-swelling-theory-for-hydrogels-part-1-modelling-of-super-absorbent-gels.pdf
+    journal: Journal of Fluid Mechanics (2023) <strong>960:</strong>A37
+    image: ./assets/img/papers/jjw_mgw_2023.jpg
+    notes: We introduce a new approach for modelling the swelling, drying and elastic behaviour of hydrogels, which leverages the tractability of classical linear-elastic theory whilst incorporating nonlinearities arising from large swelling strains. Relative to a reference state of a fully swollen gel, in which the polymer scaffold may only comprise less than...
+
+  - title: "Stokes drift through corals"
+    doi: doi.org/10.1007/s10652-021-09811-8
+    authors: <strong>Webber, J. J.</strong> and Huppert, H. E.
+    pdf: https://link.springer.com/content/pdf/10.1007/s10652-021-09811-8.pdf?pdf=button
+    journal: Environmental Fluid Mechanics (2021) <strong>21:</strong>1119-1135
+    image: ./assets/img/papers/jjw_heh_2021.png
+    notes: Motivated by shallow ocean waves propagating over coral reefs, we investigate the drift velocities due to surface wave motion in an efectively inviscid fuid that overlies a saturated porous bed of fnite depth. Previous work in this area either neglects the large-scale flow between layers...
+
+  - title: "Stokes drift in coral reefs with depth-varying permeability"
+    doi: doi.org/10.1098/rsta.2019.0531
+    authors: <strong>Webber, J. J.</strong> and Huppert, H. E.
+    pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2019.0531
+    journal: Philosophical Transactions of the Royal Society A (2020) <strong>378:</strong>20190531
+    image: ./assets/img/papers/jjw_heh_2020.jpg
+    notes: In his famous paper of 1847 (Stokes GG. 1847 On the theory of oscillatory waves. Trans. Camb. Phil. Soc. 8, 441-455), Stokes introduced the drift effect of particles in a fluid that is undergoing wave motion. This effect, now known as Stokes drift, is the result of differences between the Lagrangian and Eulerian velocities...
+
+  - title: "Time to approach similarity"
+    doi: doi.org/10.1093/qjmam/hbz019
+    authors: <strong>Webber, J. J.</strong> and Huppert, H. E.
+    pdf: https://academic.oup.com/qjmam/article-pdf/73/1/1/32528732/hbz019.pdf
+    journal: Quarterly Journal of Mechanics and Applied Mathematics (2020) <strong>73:</strong>1-23
+    image: ./assets/img/papers/jjw_heh_2019.jpeg
+    notes: In a recent article, Ball and Huppert (J. Fluid Mech., 874, 2019) introduced a novel method for ascertaining the characteristic timescale over which the similarity solution to a given time-dependent nonlinear differential equation converges to the actual solution, obtained by numerical integration, starting from given initial conditions. In this article, we apply this method to a range of different partial differential equations...
