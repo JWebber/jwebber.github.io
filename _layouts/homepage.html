@@ -40,10 +40,10 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar" href="/"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <a href="/"><h1>{{ site.title }}</h1></a>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
