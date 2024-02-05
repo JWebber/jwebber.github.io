@@ -15,3 +15,8 @@ Over the course of my PhD I supervised courses in applied mathematics as part of
 
 ### Part II Fluid Dynamics
 - [Papkovich-Neuber potentials](assets/teaching/tripos/papkovichneuber.pdf) - again, not on the course, but useful solutions for Stokes flow.
+
+### Part III introductory videos
+I have produced a playlist of videos on YouTube introducing the basics of fluid mechanics and continuum mechanics in general for students who studied their first undergraduate degree elsewhere. [Click here](https://youtube.com/playlist?list=PLnSl0BDYTANR53RVje7BRHTvVlNsSnjrm&si=dZoDmcbt_rHS7Tix) to view all 10 videos on YouTube.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=TPnv9clXKsvE82oe&amp;list=PLnSl0BDYTANR53RVje7BRHTvVlNsSnjrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
