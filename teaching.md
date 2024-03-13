@@ -10,7 +10,7 @@ Over the course of my PhD I supervised courses in applied mathematics as part of
 
 ### Part IB Fluid Dynamics
 - [Notes on the stress tensor](assets/teaching/tripos/stresstensor.pdf) - though not on the course at Part IB, this justifies the boundary conditions introduced here.
-- [Notes on Kelvin's circulation theorem](assets/teaching/kelvin.pdf) - a derivation of Kelvin's circulation theorem and its application to sheet 2 question 7.
+- [Notes on Kelvin's circulation theorem](assets/teaching/tripos/kelvin.pdf) - a derivation of Kelvin's circulation theorem and its application to sheet 2 question 7.
 - [Notes on water waves](assets/teaching/tripos/dbc.pdf), specialising in the dynamic boundary condition; people often find this hard.
 - [MATLAB code](assets/teaching/tripos/q1_2019_17c.m) for a rough-and-ready visualisation of the flow field in the solution to 2019 Paper 1 Q17C.
 - [Key to past exam questions](assets/teaching/tripos/pastfluidsquestions.xlsx) (Excel spreadsheet) breaking down past exam questions from 2017-2021 by the sections of the schedules they are based on.
