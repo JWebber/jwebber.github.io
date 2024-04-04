@@ -1,4 +1,12 @@
 main:
+  - title: "Wrinkling instabilities of swelling hydrogels"
+    doi:
+    authors: <strong>Webber, J. J.</strong> and Worster, M. G.
+    pdf: 
+    journal: Physical Review E (accepted 2024) <strong>NN:</strong>NNNN
+    image: ./assets/img/papers/jjw_mgw_2024.jpg
+    notes: We investigate the formation of wrinkling instabilities at the interface between layers of hydrogel and water, which arise to relieve horizontal compressive stresses caused by either differential swelling or confinement. Modelling the gel using a linear-elastic-nonlinear-swelling approach, we determine both a criterion for marginal stability and the growth rates of normal modes. Furthermore, our formulation...
+
   - title: "A linear-elastic-nonlinear-swelling theory for hydrogels. Part 2. Displacement formulation"
     doi: doi.org/10.1017/jfm.2023.201
     authors: <strong>Webber, J. J.</strong>, Etzold, M. A. and Worster, M. G.
