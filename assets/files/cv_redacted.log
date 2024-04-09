@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.24)  4 APR 2024 14:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.24)  9 APR 2024 15:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,6 +727,11 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 125.
 
+Underfull \hbox (badness 8113) in paragraph at lines 125--126
+\T1/LinuxLibertineT-TLF/b/n/9 (+20) swelling hy-dro-gels \T1/LinuxLibertineT-TLF/m/it/9 (+20) Phys. Rev. E \T1/LinuxLibertineT-TLF/m/n/9 (+20) 109:044602 (2024)
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 128--129
 []\T1/LinuxLibertineT-TLF/m/n/9 (+20) Webber, J.J. & Hup-pert, H.E. \T1/LinuxLibertineT-TLF/b/n/9 (+20) Stokes drift through
  []
@@ -824,17 +829,17 @@ Package rerunfilecheck Info: File `cv_redacted.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18396 strings out of 475248
- 320557 string characters out of 5757340
+ 18395 strings out of 475248
+ 320527 string characters out of 5757340
  1955801 words of memory out of 5000000
  39412 multiletter control sequences out of 15000+600000
- 672689 words of font info for 250 fonts, out of 8000000 for 9000
+ 672578 words of font info for 249 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,17n,79p,1072b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 65i,17n,79p,1072b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTBI.pfb><C:/Users/Joseph/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on cv_redacted.pdf (2 pages, 399557 bytes).
+Output written on cv_redacted.pdf (2 pages, 399781 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
  63489 words of extra memory for PDF output out of 74296 (max. 10000000)
 
