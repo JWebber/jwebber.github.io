@@ -1,4 +1,12 @@
 main:
+  - title: "Dynamics of super-absorbent hydrogels"
+    doi: doi.org/10.17863/CAM.109003
+    authors: <strong>Webber, J. J.</strong>
+    pdf: https://www.repository.cam.ac.uk/bitstreams/799ea3cb-2575-49d3-a485-3fe66bc74a4c/download
+    journal: <strong>PhD thesis:</strong> University of Cambridge
+    image: ./assets/img/papers/jjw_mgw_2023.jpg
+    notes: This thesis explores the behaviour of hydrogels, a broad class of materials comprising a hydrophilic polymer scaffold surrounded by adsorbed water molecules, potentially comprising over 99% water by volume. In general, hydrogels are soft, elastic, porous materials that can swell or dry to a significant degree by imbibing...
+  
   - title: "Wrinkling instabilities of swelling hydrogels"
     doi: doi.org/10.1103/PhysRevE.109.044602
     authors: <strong>Webber, J. J.</strong> and Worster, M. G.
