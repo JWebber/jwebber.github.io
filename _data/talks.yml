@@ -1,4 +1,28 @@
 main:
+  - title: "How to make a poster ...also how you shouldn't, why you should care, and how they matter"
+    conf: "Warwick SUMR scheme"
+    date: "28/08/2024"
+    pdf: "warwick_sumr_28082024.pdf"
+    abstract: "<i>This talk was given to summer undergraduate students taking part in the SUMR scheme to introduce them to academic posters.</i>"
+
+  - title: "Buckling and swelling instabilities of super-absorbent gels"
+    conf: "UKFN BioActive and Non-Newtonian Fluids SIG Meeting, UCL"
+    date: "18/06/2024"
+    pdf: "ucl_18062024.pdf"
+    abstract: ""
+
+  - title: "A linear-elastic-nonlinear-swelling theory for hydrogels"
+    conf: "University of Manchester & Bristol Robotics Laboratory"
+    date: "May-July 2024"
+    pdf: "manchester_17052024.pdf"
+    abstract: "<i>The talk given at Bristol on the 3rd of July was a subset of this longer talk given in Manchester on the 17th of May.</i>"
+  
+  - title: "Freezing soft porous gels"
+    conf: "Warwick-Cambridge Quantitative Cell Biology Symposium 2024"
+    date: "16/05/2024"
+    pdf: "warwick_16052024.pdf"
+    abstract: "Soft or brittle materials are easily damaged by the action of freezing, and it is often argued that this damage arises as a result of water expanding as it freezes. Though this does have an effect, recent research has further highlighted the importance of a second mechanism, cryosuction, dominant in the case of porous media, where the freezing point of water is lowered by surface tension and water is drawn through the pores of the material. In this talk, motivated by experiments freezing hydrogels, we couple a model for cryosuction with modelling of the elastic and osmotic response of the gel, highlighting the mechanisms by which cracks can form and the material deforms. Our model allows us to precisely quantify the stresses and strains induced by ice formation, and also the rate of ice growth. This provides an analogue for the damage to soft tissues when frozen and could provide new insights into how to mitigate the effect."
+
   - title: "A linear-elastic-nonlinear-swelling model for hydrogels"
     conf: "Applied Maths Seminar, Warwick"
     date: "03/05/2024"
