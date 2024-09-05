@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.talks.main %}
+{% for link in site.data.preprints.main %}
 
 <li>
 <div class="pub-row">
