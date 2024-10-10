@@ -4,6 +4,8 @@ layout: homepage
 
 ## About Me
 
+<b>Registration is now open for our one-day conference <i>Modelling hydrogels: Building networks in the Mathematical Sciences</i> to be held at the University of Warwick on Monday 9th December 2024. <a href="https://warwick.ac.uk/fac/sci/maths/research/miraw/days/modellinghydrogels">Click here</a> for more details.</b>
+
 I am a research fellow at the <a href="https://warwick.ac.uk/fac/sci/maths">Warwick Mathematics Institute</a> at the <a href="https://warwick.ac.uk/">University of Warwick</a>, working in the group of <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/montenegro-johnson/">Professor Tom Montenegro-Johnson</a> on the Leverhulme-funded project <i>Shape Transforming Active Matter</i>. Before this, I was a PhD student in the <a href="https://damtp.cam.ac.uk">Department of Applied Mathematics and Theoretical Physics</a> at the University of Cambridge, supervised by <a href="https://www.maths.cam.ac.uk/person/mgw1">Professor Grae Worster</a>. My PhD thesis, entitled <i>Dynamics of super-absorbent hydrogels</i>, is available <a href="https://doi.org/10.17863/CAM.109003">here</a>.
 
 I'm an applied mathematician working at the interface between fluid mechanics and soft matter, specifically studying poroelasticity (the behaviour of porous, deformable media). I have a particular interest in hydrogels, soft elastic solids formed of a polymer matrix surrounded by water molecules, and their swelling and drying behaviour. The publications below or my <a href="/assets/files/cv_redacted.pdf">CV</a> show more details on what I've been working on, but don't hesitate to <a href="mailto:joe.webber@warwick.ac.uk">get in touch</a> if you have any questions.
