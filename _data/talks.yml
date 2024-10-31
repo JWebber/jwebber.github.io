@@ -1,4 +1,10 @@
 main:
+  - title: "Smart responsive gels: designing the building blocks of squishy bio-inspired devices"
+    conf: "UCL Mathematical Biology Meeting"
+    date: "30/10/2024"
+    pdf: "ucl_30102024.pdf"
+    abstract: "<i>Invited talk given to the Mathematical Biology group at UCL</i>"
+    
   - title: "How to make a poster ...also how you shouldn't, why you should care, and how they matter"
     conf: "Warwick SUMR scheme"
     date: "28/08/2024"
