@@ -1,5 +1,19 @@
 main:
   - title: "Smart responsive gels: designing the building blocks of squishy bio-inspired devices"
+    conf: "Modelling hydrogels: building networks in the Mathematical Sciences workshop"
+    date: "09/12/2024"
+    pdf: "warwick_09122024.pdf"
+    abstract: "<i>Informal talk given as part of a <a href="https://warwick.ac.uk/fac/sci/maths/research/miraw/">MIRAW day</a></i>"
+
+  - title: "XOXO, Gossip Gel: oscillating chemical reactions facilitate communication between responsive hydrogels"
+    conf: "APS Division of Fluid Dynamics 2024, Salt Lake City"
+    date: "25/11/2024"
+    pdf: "aps_25112024.pdf"
+    abstract: "Responsive hydrogels promise a new world of soft and smart devices that interact with environmental stimuli, such as light-levels, ambient pH, and temperature. In pH-responsive gels, a chemical signal can result in a dramatic shape change which, in turn, squeezes solute out of the gel. This can locally change chemical concentrations, mediating long-distance signalling between isolated hydrogels.
+
+    In this talk, I will discuss how coupling an oscillating chemical reaction to a chemo-responsive hydrogel leads to regular repeated shape changes, with the resultant release of solute feeding back into the reaction rate, allowing two spatially-separated hydrogels to “communicate” via synchronisation of their separate chemical reactions. This chemical signalling leading to a physical change allows us to view active gels as proxies for simple life and giving insights into ways in which colonies of microorganisms can signal to each other."
+
+  - title: "Smart responsive gels: designing the building blocks of squishy bio-inspired devices"
     conf: "UCL Mathematical Biology Meeting"
     date: "30/10/2024"
     pdf: "ucl_30102024.pdf"

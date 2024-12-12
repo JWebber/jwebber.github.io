@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-<b>Registration is now open for our one-day conference <i>Modelling hydrogels: Building networks in the Mathematical Sciences</i> to be held at the University of Warwick on Monday 9th December 2024. <a href="https://warwick.ac.uk/fac/sci/maths/research/miraw/days/modellinghydrogels">Click here</a> for more details.</b>
+<b>Join the new <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=HYDROGELS&A=1">hydrogels mailing list</a> for researchers working on hydrogels in the UK</b>
 
 I am a research fellow at the <a href="https://warwick.ac.uk/fac/sci/maths">Warwick Mathematics Institute</a> at the <a href="https://warwick.ac.uk/">University of Warwick</a>, working in the group of <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/montenegro-johnson/">Professor Tom Montenegro-Johnson</a> on the Leverhulme-funded project <i>Shape Transforming Active Matter</i>. Before this, I was a PhD student in the <a href="https://damtp.cam.ac.uk">Department of Applied Mathematics and Theoretical Physics</a> at the University of Cambridge, supervised by <a href="https://www.maths.cam.ac.uk/person/mgw1">Professor Grae Worster</a>. My PhD thesis, entitled <i>Dynamics of super-absorbent hydrogels</i>, is available <a href="https://doi.org/10.17863/CAM.109003">here</a>.
 
