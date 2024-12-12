@@ -3,7 +3,7 @@ main:
     conf: "Modelling hydrogels: building networks in the Mathematical Sciences workshop"
     date: "09/12/2024"
     pdf: "warwick_09122024.pdf"
-    abstract: "<i>Informal talk given as part of a <a href="https://warwick.ac.uk/fac/sci/maths/research/miraw/">MIRAW day</a></i>"
+    abstract: "<i>Informal talk given as part of a <a href=\"https://warwick.ac.uk/fac/sci/maths/research/miraw/\">MIRAW day</a></i>"
 
   - title: "XOXO, Gossip Gel: oscillating chemical reactions facilitate communication between responsive hydrogels"
     conf: "APS Division of Fluid Dynamics 2024, Salt Lake City"
