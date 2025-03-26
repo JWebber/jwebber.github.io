@@ -4,7 +4,7 @@ main:
     authors: <strong>Webber, J. J.</strong> and Worster, M. G.
     pdf: https://royalsocietypublishing.org/doi/reader/10.1098/rspa.2024.0721
     journal: Proceedings of the Royal Society A (2025) <strong>481:</strong>20240721
-    image: ./assets/img/papers/jjw_mgw_2025.jpg
+    image: ./assets/img/papers/jjw_mgw_2025.png
     notes: Recent experiments have shown a rich variety of behaviour when soft, brittle, hydrogels are frozen, since water cannot freeze within the pore space of these materials as a result of the Gibbs-Thompson effect. Hence, no ice forms within the hydrogel matrix, and pure ice grows by cryosuction, drawing water from the surrounding gel towards the phase boundary. The growth of this ice...
 
   - title: "Dynamics of super-absorbent hydrogels"
