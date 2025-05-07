@@ -12,6 +12,6 @@ I'm an applied mathematician working at the interface between fluid mechanics an
 
 To view resources related to [teaching](/teaching), follow the link.
 
-{% include_relative _includes/preprints.md %}
+<!-- {% include_relative _includes/preprints.md %} -->
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/talks.md %}

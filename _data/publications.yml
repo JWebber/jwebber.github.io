@@ -1,4 +1,12 @@
 main:
+  - title: "Poromechanical modelling of responsive hydrogel pumps"
+    doi: doi.org/10.1017/jfm.2025.249
+    authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
+    pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/00797DB5E79D55305789361B6A63F957/S0022112025002496a.pdf/poromechanical-modelling-of-responsive-hydrogel-pumps.pdf
+    journal: Journal of Fluid Mechanics (2025) <strong>1009:</strong>A38
+    image: ./assets/img/papers/jjw_tdmj_2025.jpg
+    notes: Thermo-responsive hydrogels are smart materials that rapidly switch between hydrophilic (swollen) and hydrophobic (shrunken) states when heated past a threshold temperature, resulting in order-of-magnitude changes in gel volume. Modelling the dynamics of this switch is notoriously difficult, and typically involves fitting a large number of microscopic material parameters to experimental data. In this paper, we present and validate an intuitive, macroscopic description of responsive gel dynamics and use it to explore the shrinking, swelling and pumping of responsive hydrogel displacement pumps...
+
   - title: "Cryosuction and freezing hydrogels"
     doi: doi.org/10.1098/rspa.2024.0721
     authors: <strong>Webber, J. J.</strong> and Worster, M. G.
