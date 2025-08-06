@@ -1,4 +1,12 @@
 main:
+  - title: "Oscillating chemical reactions enable communication between responsive hydrogels"
+    doi: doi.org/10.1103/xbvn-5b59
+    authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
+    pdf: https://arxiv.org/pdf/2508.02399
+    journal: Physical Review Research (accepted, 2025) - preprint on <a href="https://arxiv.org/abs/2508.02399">arXiv</a>
+    image: ./assets/img/papers/jjw_tdmj_2025b.jpg
+    notes: Responsive hydrogels can sense environmental stimuli and respond as actuators by expelling water and changing shape. In this article, we develop theory to demonstrate that groups of responsive hydrogels can also communicate with each other, by utilising the effect of elastic deformation on chemical reaction dynamics. Specifically, we consider a system of two spatially-separated chemically responsive hydrogels...
+
   - title: "Poromechanical modelling of responsive hydrogel pumps"
     doi: doi.org/10.1017/jfm.2025.249
     authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
