@@ -1,4 +1,18 @@
 main:
+  - title: "Poromechanical modelling of pumping with responsive hydrogels"
+    conf: "European Fluid Dynamics Conference (EFDC2), Dublin"
+    date: "28/08/2025"
+    pdf: "efdc_28082025.pdf"
+    abstract: "Responsive hydrogels undergo significant changes in volume as a result of changes in their local environment, be this through changing temperatures (e.g. PNIPAM gels), chemical concentrations, or light levels. These volume changes arise as the affinity of polymer chains for water molecules varies in response to external stimuli, and water is either driven into our out of the polymer network. As a result, responses can be slow, mediated by the viscously-dominated diffusion of water through the nanoporous gel scaffold, with centimetre-scale gels taking of the order of hours to reconfigure as their environment changes. Modelling these materials can be a challenge, and often relies on fitting a large number of microscopic material parameters to experimental data. We introduce an extension of the linear-elastic-nonlinear-swelling (LENS) model to describe responsive gels, allowing us to quantify the transient behaviour of thermo-responsive gels once the threshold temperature for deswelling is crossed, and the magnitude and direction of the flows of interstitial water that drive the reconfiguration.
+
+    This framework allows us to move on to produce displacement pumps that react on much shorter timescales than similarly-sized responsive gels. These pumps operate by driving fluid radially out of thin tube walls, shrinking in response to temperature change, which in turn drives a flow along the lumen of the tube, unimpeded by the strong viscous resistance in the pore spaces. Modelling such devices requires us to understand the coupling between external fluid flows, gel dynamics, heat transfer and elasticity, but we illustrate how the gel and fluid dynamics problems can be uncoupled to allow for a more straightforward semi-analytic solution. In this talk, we discuss the main qualitative insights of our modelling of such devices and how such novel, model-inspired, geometries allow for the creation of devices that respond to external stimuli on tunable timescales, unlocking new possibilities for dynamic shape change."
+
+  - title: "How to prepare and present maths posters"
+    conf: "Warwick SUMR scheme"
+    date: "20/08/2025"
+    pdf: "warwick_sumr_20082025.pdf"
+    abstract: "<i>This talk, an updated and improved version of that given in 2024, was given to summer undergraduate students taking part in the SUMR scheme to introduce them to academic posters.</i>"
+
   - title: "Getting stressed about frozen gels (IMA Lighthill-Thwaites Prize finalist 2025)"
     conf: "British Applied Mathematics Colloquium 2025, Exeter"
     date: "25/06/2025"
