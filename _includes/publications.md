@@ -18,7 +18,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://{{ link.doi }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}  <a href="https://{{ link.doi }}">{{ link.doi }}</a></em>
+      <div class="periodical"><em>{{ link.journal }}<br/>  <a href="https://{{ link.doi }}">{{ link.doi }}</a></em>
       </div>
     {% if link.notes %} 
       <i style="color:#999999">{{ link.notes }}</i>
