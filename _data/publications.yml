@@ -1,4 +1,12 @@
 main:
+  - title: "Surfing on chemical waves: A simple yet dynamically rich two-sphere responsive gel swimmer"
+    doi: doi.org/10.1103/52bv-vyb5
+    authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
+    pdf: https://arxiv.org/pdf/2509.13850
+    journal: Physical Review Fluids (2025) <strong>accepted</strong>, arXiv:<a href="https://arxiv.org/abs/2509.13850">2509.13850</a>
+    image: ./assets/img/papers/jjw_tdmj_2025c.jpg
+    notes: Self-oscillating gels are chemically-responsive hydrogels coupled to an oscillating chemical reaction of a stimulus solute. In response to the oscillating solute concentration field, responsive gels periodically swell and deswell, expelling their adsorbed water as they transition to a drier state, and reswelling once they return to a hydrophilic state. This volume phase transition occurs when the local stimulus concentration crosses a critical value...
+
   - title: "Oscillating chemical reactions enable communication between responsive hydrogels"
     doi: doi.org/10.1103/xbvn-5b59
     authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
