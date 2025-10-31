@@ -1,4 +1,14 @@
 main:
+  - title: "A tractable framework for modelling hydrophilic large-swelling gels"
+    conf: "Online CMIM group seminar, Department of Mathematics and Statistics, University of Strathclyde"
+    date: "01/10/2025"
+    pdf: "strathclyde_011025.pdf"
+    abstract: "Developing models for super-absorbent gels is an important pursuit - materials formed from a porous elastic scaffold that can increase in volume by up to hundreds of times upon the uptake of water are found in fields as disparate as materials science, biomedical sciences (where such gels provide good analogues for biological tissues) and geophysics. Such models, however, typically fall into one of two categories: either they are based on linear poroelasticity and therefore fail to capture the large swelling strains that permit order-of-magnitude volume changes, or they rely on difficult-to-parameterise nonlinear elasticity: amongst other things, these models lose the tensorial nature of linear poroelasticity, can be analytically intractable, focus on steady states instead of transients, and often tend to disguise the dominant physics driving behaviour.
+
+    In this talk, I will outline the linear-elastic-nonlinear-swelling (LENS) theory which allows for nonlinearities in swelling strains whilst linearising small deviatoric strains, in effect treating these gels as linear poroelastic materials with properties that change as they swell or dry. Gel dynamics are described by a nonlinear advection-diffusion equation, and it becomes possible to straightforwardly infer the transient shape of gels as they hydrate or dehydrate. This model has numerous benefits that make it suitable to accurately describe the response of gels, can couple neatly with fluid flows and explain a number of phenomena observed in experiments.
+    
+    From this starting point, I will show how a nonlinear poroelastic model like LENS can be incorporated in multiphysics problems including in modelling the freezing of porous media and outline recent work where it is extended to describe responsive hydrogels that swell or deswell as a result of external environmental triggers."
+
   - title: "Poromechanical modelling of pumping with responsive hydrogels"
     conf: "European Fluid Dynamics Conference (EFDC2), Dublin"
     date: "28/08/2025"

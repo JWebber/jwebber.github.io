@@ -1,8 +1,10 @@
 ---
 layout: homepage
 ---
+## Lecturing
+In the 2025-26 academic year, I am the module lead and lecturer for [MA4N4 Transport Processes in Mathematical Biology](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4n4) at the University of Warwick. Resources for this course can be found on the Moodle page, and I will post anything that can be shared more widely here.
 
-## Teaching resources
+## Cambridge supervision resources
 
 Over the course of my PhD I supervised courses in applied mathematics as part of the [Cambridge Mathematical Tripos](https://www.maths.cam.ac.uk/undergrad/undergrad), as well as lectured portions of the Part IA Introduction to Mechanics course. I've collected some notes and resources here in case they're of any use.
 
