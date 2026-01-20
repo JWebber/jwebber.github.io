@@ -1,4 +1,10 @@
 main:
+  - title: "A linear-elastic-nonlinear-swelling model for hydrogels"
+    conf: "Applied Mathematics Seminar, School of Mathematical Sciences, University of Nottingham"
+    date: "15/01/2026"
+    pdf: "nottingham_15012026.pdf"
+    abstract: "Hydrogels are an important example of poroelastic materials, formed from hydrophilic polymer chains surrounded by adsorbed water molecules. Key to many of their uses is the fact that they can swell to hundreds of times their initial size upon imbibition of water, but at any swelling state they behave as solid, soft, elastic media. Modelling such gels can be challenging: large-strain elasticity arising from swelling and drying must be incorporated alongside the interaction between water and polymer molecules and the transport of water through the pore spaces. This has, in the past, led to many complicated nonlinear approaches based on an understanding of the molecular-scale behaviour. In this talk, I will summarise a model for the dynamics of hydrogels that treats them as instantaneously incompressible linear-elastic materials, whilst allowing for nonlinearities in the isotropic strains corresponding to swelling. This approach is not only analytically tractable, but also able to describe the gel using only three (macroscopic) swelling-state-dependent material parameters and can be adapted to model responsive or active gels. I will then discuss further extensions of this approach to problems involving freezing and thermo- and chemo-responsive hydrogels."
+
   - title: "A tractable framework for modelling hydrophilic large-swelling gels"
     conf: "Online CMIM group seminar, Department of Mathematics and Statistics, University of Strathclyde"
     date: "01/10/2025"
