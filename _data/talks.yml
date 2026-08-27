@@ -1,4 +1,19 @@
 main:
+  - title: "Peat as a hierarchical poroelastic medium"
+    conf: "Mathematical Modelling for Peat's Sake, University of Warwick"
+    date: "09/06/2026"
+    pdf: "warwick_090626.pdf"
+
+  - title: "Forming channels in poroelastic beds through pressure-driven flow"
+    conf: "British Applied Mathematics Colloquium 2026, Norwich"
+    date: "01/04/2026"
+    pdf: ""
+
+  - title: "Channel-forming instabilities in poroelastic media under pressure-driven flow"
+    conf: "ITG Lunchtime Seminar, DAMTP, University of Cambridge"
+    date: "25/02/2026"
+    pdf: ""
+
   - title: "A linear-elastic-nonlinear-swelling model for hydrogels"
     conf: "Applied Mathematics Seminar, School of Mathematical Sciences, University of Nottingham"
     date: "15/01/2026"

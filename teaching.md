@@ -2,7 +2,9 @@
 layout: homepage
 ---
 ## Lecturing
-In the 2025-26 academic year, I am the module lead and lecturer for [MA4N4 Transport Processes in Mathematical Biology](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4n4) at the University of Warwick. Resources for this course can be found on the Moodle page, and I will post anything that can be shared more widely here.
+This year (2026-27) I am the module lead and lecturer for [MA4J1 Continuum Mechanics](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4j1). Course materials can be found on the Moodle for this course, and lecture notes from last year's course by Tom Hudson can be downloaded [here](https://thudso.github.io/ContinuumMechanicsNotes/MA4J1-Continuum-Mechanics-Notes.pdf).
+
+In the 2025-26 academic year, I was the module lead and lecturer for [MA4N4 Transport Processes in Mathematical Biology](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4n4) at the University of Warwick.
 
 ## Cambridge supervision resources
 
