@@ -1,4 +1,12 @@
 main:
+  - title: "A theoretical model for the transport of solute through hydrogels containing oil droplets"
+    doi: doi.org/10.1039/D6SM00786D
+    authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
+    pdf: https://pubs.rsc.org/sm/article/doi/10.1039/D6SM00786D/1372734/A-theoretical-model-for-the-transport-of-solute
+    journal: Soft Matter (2026) accepted manuscript
+    image: ./assets/img/papers/jjw_safb_tdmj_2026.png
+    notes: Hydrogels are often used as reservoirs for chemicals such as drugs or soil treatments, but they can release their payload much too quickly as they dry out or as solute simply diffuses through the water in the gel. It is known that doping gels with oil droplets, creating a material known as an 'emulgel', can trap solute and slow this release, but quantifying this effect is challenging. In this paper, we introduce a new approach to deduce the effective transport properties of an inhomogeneous porous medium...
+
   - title: "Surfing on chemical waves: A simple yet dynamically rich two-sphere responsive gel swimmer"
     doi: doi.org/10.1103/52bv-vyb5
     authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.

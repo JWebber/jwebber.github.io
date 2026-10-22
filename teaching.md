@@ -6,6 +6,9 @@ This year (2026-27) I am the module lead and lecturer for [MA4J1 Continuum Mecha
 
 In the 2025-26 academic year, I was the module lead and lecturer for [MA4N4 Transport Processes in Mathematical Biology](https://warwick.ac.uk/fac/sci/maths/currentstudents/modules/ma4n4) at the University of Warwick.
 
+## Research projects
+I am usually happy to talk about opportunities to supervise research projects - I have supervised students for the MA395 Essay and MA4K9 Research Projects modules at Warwick as well as summer undergraduate students. If any of these interest you, please get in touch via email.
+
 ## Cambridge supervision resources
 
 Over the course of my PhD I supervised courses in applied mathematics as part of the [Cambridge Mathematical Tripos](https://www.maths.cam.ac.uk/undergrad/undergrad), as well as lectured portions of the Part IA Introduction to Mechanics course. I've collected some notes and resources here in case they're of any use.
