@@ -1,7 +1,7 @@
 main:
   - title: "A theoretical model for the transport of solute through hydrogels containing oil droplets"
     doi: doi.org/10.1039/D6SM00786D
-    authors: <strong>Webber, J. J.</strong> and Montenegro-Johnson, T.D.
+    authors: <strong>Webber, J. J.</strong>, Bon, S.A.F. and Montenegro-Johnson, T.D.
     pdf: https://pubs.rsc.org/sm/article/doi/10.1039/D6SM00786D/1372734/A-theoretical-model-for-the-transport-of-solute
     journal: Soft Matter (2026) accepted manuscript
     image: ./assets/img/papers/jjw_safb_tdmj_2026.png
