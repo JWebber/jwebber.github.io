@@ -1,6 +1,6 @@
 main:
   - title: "Banding instabilities in poroelastic media under flow-driven compaction"
-    author: "Webber, J. J."
-    date: "2026"
+    author: "<strong>Webber, J. J.</strong>"
+    date: "2026 (<a href=\"https://arxiv.org/abs/2611.14235\">arXiv:2611.14235</a>)"
     pdf: "2611.14235v1.pdf"
     abstract: "When cross-linked poroelastic media are subjected to a hydrostatic pressure difference, they compact, remaining fully swollen on their uppermost surface and becoming increasingly compressed with depth. A critical unexplored effect of cross-linking and resistance to shear deformation is investigated, which is not seen in classical models of poroelastic media treated as free elastic spheres, and resists the kind of compressive compaction that characterises these systems. Eventually, a steady-state profile dependent on osmotic, shear and transport properties is reached, supporting a uniform interstitial flow wherein the medium acts like a passive filter. In this paper, we show how these steady-state profiles are not necessarily stable, and propose a mechanism for the formation of instabilities, wherein some regions of the medium swell and others compact..."
