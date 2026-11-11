@@ -13,6 +13,6 @@ To view resources related to [teaching](/teaching), follow the link.
 
 <b>The <a href="https://sites.google.com/view/ukhydrogels/">UK Hydrogels Network</a> now has a website - join the <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=HYDROGELS&A=1">hydrogels mailing list</a> for researchers working on hydrogels in the UK to stay up-to-date.</b>
 
-<!-- {% include_relative _includes/preprints.md %} -->
+{% include_relative _includes/preprints.md %}
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/talks.md %}

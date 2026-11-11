@@ -1,6 +1,6 @@
 main:
-  - title: "Poromechanical modelling of responsive hydrogel pumps"
-    author: "Webber, J. J. and Montenegro-Johnson, T. D."
-    date: "2025, accepted by J. Fluid Mech."
-    pdf: "tubular_pumps_preprint.pdf"
-    abstract: "Thermo-responsive hydrogels are smart materials that rapidly switch between hydrophilic (swollen) and hydrophobic (shrunken) states when heated past a threshold temperature, resulting in order-of-magnitude changes in gel volume. Modelling the dynamics of this switch is notoriously difficult, and typically involves fitting a large number of microscopic material parameters to experimental data. In this paper, we present and validate an intuitive, macroscopic description of responsive gel dynamics and use it to explore the shrinking, swelling and pumping of responsive hydrogel displacement pumps for microfluidic devices. We finish with a discussion on how such tubular structures may be used to speed up the response times of larger hydrogel smart actuators and unlock new possibilities for dynamic shape change."
+  - title: "Banding instabilities in poroelastic media under flow-driven compaction"
+    author: "Webber, J. J."
+    date: "2026"
+    pdf: "2611.14235v1.pdf"
+    abstract: "When cross-linked poroelastic media are subjected to a hydrostatic pressure difference, they compact, remaining fully swollen on their uppermost surface and becoming increasingly compressed with depth. A critical unexplored effect of cross-linking and resistance to shear deformation is investigated, which is not seen in classical models of poroelastic media treated as free elastic spheres, and resists the kind of compressive compaction that characterises these systems. Eventually, a steady-state profile dependent on osmotic, shear and transport properties is reached, supporting a uniform interstitial flow wherein the medium acts like a passive filter. In this paper, we show how these steady-state profiles are not necessarily stable, and propose a mechanism for the formation of instabilities, wherein some regions of the medium swell and others compact..."
